@@ -1,0 +1,20 @@
+[
+    "index.md",
+    "overview.md",
+    "the-store.md",
+    "adapters.md",
+    "url-conventions.md",
+    "model.md",
+    "model-lifecycle.md",
+    "relationships.md",
+    "async.md",
+    "links.md",
+    "find.md",
+    "create.md",
+    "pushing.md",
+    "update.md",
+    "delete.md",
+    "unloading.md",
+    "metadata.md",
+    "resources.md"
+]

@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Ember Data",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "jheth",
+    "githubRepository": "ember-data-slides"
+  }
+}
