@@ -87,7 +87,7 @@ module.exports = (grunt) ->
                 message: 'Built from %sourceCommit% on branch %sourceBranch%'
             pages:
                 options:
-                    remote: 'git@github.com:jheth/ember-data-slides.git'
+                    remote: 'git@github.com:jheth/introduction-to-ember-data.git'
                     branch: 'gh-pages'
         
 
