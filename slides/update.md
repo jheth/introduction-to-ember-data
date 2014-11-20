@@ -14,6 +14,9 @@ user.save();              // => POST /users/9
 // OR
 user.rollback();          // => reverts local state
 user.get('isDirty');      // => false
+
+// OR
+user.reload();            // => GET /users/9
 ```
 
 Note:
