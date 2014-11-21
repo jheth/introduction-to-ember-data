@@ -1,7 +1,7 @@
 ##  Update
 
 ```javascript
-var user = this.store.find('user', 1);
+var user = this.store.find('user', 9);
 
 // ...after the record has loaded
 user.incrementProperty('postCount');
